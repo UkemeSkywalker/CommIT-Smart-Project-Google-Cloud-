@@ -1,3 +1,4 @@
+<img width="3000" height="1720" alt="image-1794935261299" src="https://github.com/user-attachments/assets/b7b5c8ca-b538-4fa6-af90-420fdab0cc29" />
 
 # GCP GKE Infrastructure Deployment with Terraform
 
